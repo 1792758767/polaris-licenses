@@ -1,8 +1,8 @@
 {
   "payload": {
     "formatVersion": 1,
-    "revision": 1,
-    "publishedAtUtc": "2026-10-15T07:01:13.9861218+00:00",
+    "revision": 2,
+    "publishedAtUtc": "2026-10-15T07:13:49.4229997+00:00",
     "entries": [
       {
         "enabled": true,
@@ -23,5 +23,5 @@
     ]
   },
   "signingKeyId": "C18E4F80D9E4C0962DE5778C196BE4C902B31A2B3C15F579909CC18E72316D1D",
-  "signatureBase64": "keDjEXuz0\u002BxrzO8JFTQqWrtjml6WrK8e149ZRvmRDW1yDrNxDLW9Yb60nsMCOJGH3CQ6xEaB/b3k\u002BW66TAQdhg=="
+  "signatureBase64": "z0pHpuYJfFxDFcTQOdtaB9Q\u002BEORWkqw1/f0GKg9xXObzcWZG0T4vkq4cje\u002BWShO9LfZT3g9W5i7uoXj34dNPlg=="
 }
