@@ -1,0 +1,27 @@
+{
+  "payload": {
+    "formatVersion": 1,
+    "revision": 1,
+    "publishedAtUtc": "2026-10-15T07:01:13.9861218+00:00",
+    "entries": [
+      {
+        "enabled": true,
+        "license": {
+          "formatVersion": 1,
+          "licenseId": "5b4789c995d7472695d2a759f199bb6b",
+          "customerName": "\u5BA2\u6237-95DFA5DB6D80",
+          "productCode": "POLARIS_CONTROL",
+          "productName": "Polaris Control",
+          "machineCode": "95DFA5DB6D80DBF29779D7B3B33B2C1F71DD910689EBB158FADCFF9ABFB3B9DB",
+          "issuedAtUtc": "2026-10-15T06:10:36.6308579+00:00",
+          "notBeforeUtc": "2026-10-14T16:00:00+00:00",
+          "expiresAtUtc": "2026-10-24T16:00:00+00:00",
+          "maxLaunchCount": 3,
+          "notes": null
+        }
+      }
+    ]
+  },
+  "signingKeyId": "C18E4F80D9E4C0962DE5778C196BE4C902B31A2B3C15F579909CC18E72316D1D",
+  "signatureBase64": "keDjEXuz0\u002BxrzO8JFTQqWrtjml6WrK8e149ZRvmRDW1yDrNxDLW9Yb60nsMCOJGH3CQ6xEaB/b3k\u002BW66TAQdhg=="
+}
