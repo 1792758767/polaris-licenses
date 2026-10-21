@@ -1,8 +1,8 @@
 {
   "payload": {
     "formatVersion": 1,
-    "revision": 11,
-    "publishedAtUtc": "2026-10-21T11:43:55.5500745+00:00",
+    "revision": 13,
+    "publishedAtUtc": "2026-10-21T11:56:42.1152209+00:00",
     "entries": [
       {
         "enabled": true,
@@ -37,7 +37,7 @@
         }
       },
       {
-        "enabled": true,
+        "enabled": false,
         "license": {
           "formatVersion": 1,
           "licenseId": "192f93377c704ac3b559b43004c07e4c",
@@ -55,5 +55,5 @@
     ]
   },
   "signingKeyId": "C18E4F80D9E4C0962DE5778C196BE4C902B31A2B3C15F579909CC18E72316D1D",
-  "signatureBase64": "ibvrhGO0RmwBJMT2kzuHeNWbvYrM0qx1tJz1xxnqngMshwbp6Ixi3NqnMDgX\u002B8AxXNrctNW4emOf1qJk\u002BpFU5Q=="
+  "signatureBase64": "W54By41mrQs2Te9khWCKFkz2gKF/I94ofCuyiENDJ\u002BnF0jSEXKxMePT/3Atk8JzAYICRRXe/U5Yr5TCNdGoc/g=="
 }
